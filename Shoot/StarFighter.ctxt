@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StarFighter()
+comment0.text=the\ StarFighter\ constructor
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ StarFighter\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ checkBoundaries()
+comment3.params=
+comment3.target=void\ actOnKeys()
+comment3.text=\r\n\ Check\ if\ control\ key\ on\ keyboard\ is\ pressed\ and\ act\ accordingly\r\n
+numComments=4
